@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/src/debug/assets" />
+    </dataSet>
+
+</merger>

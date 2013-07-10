@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373397767000 737 f2e08af649624dc6b25ee96149864dd7f8a521b4 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R.class
+1373397767000 479 7ee292af4260c4597fe480410b393103a15cdf6b /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$dimen.class
+1373402901000 2263 c6114ec82aab9e8ecf40fce70562fdb328ac2598 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/AndroidBasicsStarter.class
+1373397767000 490 1129e49c5361c080aba5d0c4f334ac5c335a0e23 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$string.class
+1373397767000 357 4cd4f3215d82859c5a7ab62ca4680dbcb4ab0349 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/BuildConfig.class
+1373397767000 425 07263aca3e73f5c23409156d846bb6bae1cfd7b8 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$drawable.class
+1373397767000 411 6acda85929be5d61131f5c418a52538d2d6a0598 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$id.class
+1373397767000 424 72ce6ee0be017f44eb981e0a4e0f17b8364eff63 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$menu.class
+1373397767000 421 b6fa459605f1239927d5232be4a974c8671bc690 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$layout.class
+1373405213000 1633 e6b3779dcbf71c0df20f07e235249e7b7644bf04 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/LifeCycleTest.class
+1373397767000 358 54003a129c5855cff1545dbbab93e0a74200fdf8 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$attr.class
+1373397767000 449 d166e4441e49830b646f2786750fb422f1343eed /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/R$style.class
+1373397745000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/libs/android-support-v4.jar
+1373468444000 2015 c518ff54c46a84f47efa249bc44040bc0ef9957f /Users/neumac2/AndroidStudioProjects/ch04-android-basics/AndroidBasicsStarter/build/classes/debug/com/frozair/androidgames/SingleTouchTest.class

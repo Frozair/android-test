@@ -1,0 +1,20 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="preferExternal" android:versionCode="1" android:versionName="1.0" package="com.frozair.androidgames">
+
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="16"/>
+
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name">
+        <activity android:configChanges="keyboard|keyboardHidden|orientation" android:label="@string/app_name" android:name="com.frozair.androidgames.AndroidBasicsStarter">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation" android:label="Life Cycle Test" android:name="com.frozair.androidgames.LifeCycleTest">
+        </activity>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation" android:label="Single Touch Test" android:name="com.frozair.androidgames.SingleTouchTest">
+        </activity>
+    </application>
+
+     <uses-permission android:name="android.permission.WAKE_LOCK"/>
+     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+</manifest>
