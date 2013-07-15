@@ -48,6 +48,11 @@
                 android:name=".AccelerometerTest"
                 android:configChanges="keyboard|keyboardHidden|orientation" >
         </activity>
+        <activity
+                android:label="Full Screen Test"
+                android:name=".FullScreenTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
     </application>
 
      <uses-permission android:name="android.permission.WAKE_LOCK" />
