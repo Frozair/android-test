@@ -49,6 +49,11 @@
                 android:configChanges="keyboard|keyboardHidden|orientation" >
         </activity>
         <activity
+                android:label="Full Screen Test"
+                android:name=".FullScreenTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
+        <activity
                 android:label="Assets Test"
                 android:name=".AssetsTest"
                 android:configChanges="keyboard|keyboardHidden|orientation" >
