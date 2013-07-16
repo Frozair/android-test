@@ -1,0 +1,3 @@
+I am writing giberish, i do not care if my spelling is correct.
+Tgus us a test to see if i can load files from the assets folder.
+It seems i can sometimes type without looking at the screen, this is weird.

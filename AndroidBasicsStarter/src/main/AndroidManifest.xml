@@ -48,8 +48,29 @@
                 android:name=".AccelerometerTest"
                 android:configChanges="keyboard|keyboardHidden|orientation" >
         </activity>
+        <activity
+                android:label="Assets Test"
+                android:name=".AssetsTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
+        <activity
+                android:label="External Storage Test"
+                android:name=".ExternalStorageTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
+        <activity
+                android:label="Sound Pool Test"
+                android:name=".SoundPoolTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
+        <activity
+                android:label="Media Player Test"
+                android:name=".MediaPlayerTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
     </application>
 
-     <uses-permission android:name="android.permission.WAKE_LOCK" />
-     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
 </manifest>
