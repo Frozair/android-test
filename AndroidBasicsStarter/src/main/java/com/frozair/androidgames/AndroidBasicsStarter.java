@@ -1,6 +1,5 @@
 package com.frozair.androidgames;
 
-import android.*;
 import android.R;
 import android.os.Bundle;
 import android.app.ListActivity;
@@ -12,7 +11,7 @@ import android.widget.ListView;
 public class AndroidBasicsStarter extends ListActivity {
     String tests[] = { "LifeCycleTest", "SingleTouchTest", "MultiTouchTest",
                       "KeyTest", "AccelerometerTest", "AssetsTest",
-                      "ExternalStorageTest", "SoundPool", "MediaPlayerTest",
+                      "ExternalStorageTest", "SoundPoolTest", "MediaPlayerTest",
                       "FullScreenTest", "RenderViewTest", "ShapeTest", "BitmapTest",
                       "FontTest", "SurfaceViewTest" };
 
