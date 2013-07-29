@@ -73,6 +73,21 @@
                 android:name=".MediaPlayerTest"
                 android:configChanges="keyboard|keyboardHidden|orientation" >
         </activity>
+        <activity
+                android:label="Render View Test"
+                android:name=".RenderViewTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
+        <activity
+                android:label="Shape Test"
+                android:name=".ShapeTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
+        <activity
+                android:label="Bitmap Test"
+                android:name=".BitmapTest"
+                android:configChanges="keyboard|keyboardHidden|orientation" >
+        </activity>
     </application>
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
